@@ -2,7 +2,14 @@
 race_project.py
 by Katherine Outcalt
 6.6.19
+
+Description: Three "frogs" are placed on a course, which appears on the screen
+from the turtle library. The frogs move and turn randomly until one frog
+crosses the course. If they are out of bounds, then they are redirected.
+Afer the race is finished, then the coordinates from the race are printed for
+each frog (coords are from every 20th move). 
 '''
+
 import turtle
 import random
 import math
