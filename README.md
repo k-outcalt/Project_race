@@ -8,3 +8,5 @@ This project was from my first programming class, and we finished off the term s
 Details
 -------
 The project is all one .py file consisting of the Frog class, its methods, and functions to simulate the race. The movements that were randomly chosen included changing direction, jumping to a new set of coordinates, or doing nothing. The course and their movements are displayed on the imported turtle application on the console.
+
+<img src="./race_screenshot.png">
