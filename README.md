@@ -1,4 +1,4 @@
-## Project_race
+# Project_race
  Python race project
 
 About this project
@@ -17,5 +17,4 @@ How to run the project
  * Type `cd "folder_name"` and press enter
 * Type `Python race_project.py` and press enter! The turtle application should open up on the screen and the race should start automatically 
 
-raw = true
 <img src="./race_screenshot.png">
